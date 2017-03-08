@@ -1,6 +1,9 @@
 #Added First line
 #added Second Line
+<<<<<<< HEAD
 #Added Third Line
+=======
+>>>>>>> 94ef4f83204a8fba844ab625d101d52866f1c98d
 public class EvenNumbers {
  
         public static void main(String[] args) {
